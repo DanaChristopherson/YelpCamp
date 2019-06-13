@@ -1,0 +1,22 @@
+{
+	"result": {
+		"ok": 1,
+		"n": 1,
+		"opTime": {
+			"ts": "6701420017201709059",
+			"t": 2
+		}
+	},
+	"test": [
+		{
+			"Name": "Rusty",
+			"Breed": "Mutt",
+			"Age": "4",
+			"_id": "5d003a01c273522264fa3a67"
+		}
+	],
+	"insertedCount": 1,
+	"insertedIds": [
+		"5d003a01c273522264fa3a67"
+	]
+}
